@@ -1,0 +1,70 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Build Results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+*.symbols.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Uncomment if using NuGet 3+
+#*.nuget
+
+## Web Server log
+*.pid
+
+## ASP.NET Specific
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.vspscc
+*.vssscc
+*.publish.xml
+*.dbmdl
+Generated_Code/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+## WebForms Cache and Temp Files
+App_Data/
+*.cache
+*.bak
+*.old
+*.orig
+*.tmp
+*.tmpfile
+*.bakfile
+*~
+*.swp
+*.swn
+
+## Designer files if generated incorrectly (optional)
+*_i.c
+*_p.c
+*_h.h
+
+## IIS Express
+.vscode/
+.ionide/
+iisexpress/
+
+## Azure
+*.azurePubxml
+*.PublishSettings
