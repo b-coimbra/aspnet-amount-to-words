@@ -49,5 +49,41 @@ Namespace AmountToWords
 		'''To modify move field declaration from designer file to code-behind file.
 		'''</remarks>
 		Protected WithEvents lblResult As Global.System.Web.UI.WebControls.Label
+
+		'''<summary>
+		'''txtPalindrome control.
+		'''</summary>
+		'''<remarks>
+		'''Auto-generated field.
+		'''To modify move field declaration from designer file to code-behind file.
+		'''</remarks>
+		Protected WithEvents txtPalindrome As Global.System.Web.UI.WebControls.TextBox
+
+		'''<summary>
+		'''btnCheckPalindrome control.
+		'''</summary>
+		'''<remarks>
+		'''Auto-generated field.
+		'''To modify move field declaration from designer file to code-behind file.
+		'''</remarks>
+		Protected WithEvents btnCheckPalindrome As Global.System.Web.UI.WebControls.Button
+
+		'''<summary>
+		'''lblPalindromeResult control.
+		'''</summary>
+		'''<remarks>
+		'''Auto-generated field.
+		'''To modify move field declaration from designer file to code-behind file.
+		'''</remarks>
+		Protected WithEvents lblPalindromeResult As Global.System.Web.UI.WebControls.Label
+
+		'''<summary>
+		'''lblPalindromeBadge control.
+		'''</summary>
+		'''<remarks>
+		'''Auto-generated field.
+		'''To modify move field declaration from designer file to code-behind file.
+		'''</remarks>
+		Protected WithEvents lblPalindromeBadge As Global.System.Web.UI.WebControls.Label
 	End Class
 End Namespace
