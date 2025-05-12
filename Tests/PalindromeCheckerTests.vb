@@ -1,5 +1,5 @@
 ﻿Imports Xunit
-Imports Subject = Exercises.Exercises;
+Imports Subject = Exercises.Exercises
 
 Public Class PalindromeCheckerTests
 	<Fact>
